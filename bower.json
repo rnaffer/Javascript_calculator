@@ -1,0 +1,21 @@
+{
+  "name": "Javascript_calculator",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rnaffer/Javascript_calculator",
+  "authors": [
+    "RNaffer <reyesnaffer@gmail.com>"
+  ],
+  "description": "Javascript Calculator",
+  "main": "index.html",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

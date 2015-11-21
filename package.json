@@ -1,0 +1,28 @@
+{
+  "name": "javasctipt_calculator",
+  "version": "1.0.0",
+  "description": "Simple calculator ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnaffer/Javascript_calculator.git"
+  },
+  "author": "Naffer Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rnaffer/Javascript_calculator/issues"
+  },
+  "homepage": "https://github.com/rnaffer/Javascript_calculator#readme",
+  "dependencies": {
+    "bower": "^1.6.5",
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-copy": "^0.8.2",
+    "grunt-contrib-less": "^1.1.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
